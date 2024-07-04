@@ -6,8 +6,6 @@ E-Commerce Android Application to Buy Groceries Online. Vendor will list product
 - Volley Library for HTTP Requests
 - Google Play Services for Location Sensor
 - Camera Sensor
-- PHP Backend with MySQL on 000WebHost
-- File Storage on 000WebHost
 
 ### Customer Features
 - Login/Create Account
